@@ -1,3 +1,11 @@
+# This repository has moved!
+
+This project is now maintained in a new repository: [https://github.com/iamkhalidhussein/dashdeals](https://github.com/iamkhalidhussein/dashdeals)
+
+Please visit the new repository for the latest updates.
+
+
+
 # 🛍️ E-Commerce Backend API
 This is the backend API for a simple e-commerce web application. It supports product management, user authentication, cart operations, and order processing. Built with Node.js, Express, and MongoDB, it serves as the core engine powering the frontend interface of the store.
 
